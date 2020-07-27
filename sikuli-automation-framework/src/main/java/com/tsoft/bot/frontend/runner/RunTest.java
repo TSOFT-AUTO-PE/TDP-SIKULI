@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 		features={"src//main//resources//features"},
 		glue={"com.tsoft.bot.frontend.steps.crmMasSimple","com.tsoft.bot.frontend.helpers"},
 		plugin = {"pretty", "html:target/cucumber"},
-		tags = {"@CRM_CrearClienteResidencial_DNI"},
+		tags = {"@CRM_Login"},
 		monochrome = true
 	)
 

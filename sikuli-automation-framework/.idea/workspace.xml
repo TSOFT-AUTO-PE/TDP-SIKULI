@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="360574ac-4aaa-4518-a335-6fb560437bee" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="360574ac-4aaa-4518-a335-6fb560437bee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/driver/sikulixapi.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend-reporte.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-reporte.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tsoft/bot/frontend/runner/RunTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tsoft/bot/frontend/runner/RunTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tsoft/bot/frontend/utility/GenerateWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tsoft/bot/frontend/utility/GenerateWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/doc/Evidencia.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/doc/Evidencia.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/excel/CRM_Login.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/excel/CRM_Login.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/sikuli-automation-framework.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tsoft/bot/frontend/runner/RunTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tsoft/bot/frontend/runner/RunTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tsoft/bot/frontend/utility/GenerateWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tsoft/bot/frontend/utility/GenerateWord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/doc/Evidencia.docx" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/doc/Evidencia.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/excel/CRM_Login.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/excel/CRM_Login.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber/formatter.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber/formatter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber/jquery-1.8.2.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber/jquery-1.8.2.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,21 +35,23 @@
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1V57SUtJ2jtO1BzZFtzF13tAaWd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="GenerateAntBuildDialog.backupFiles" value="true" />
     <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
     <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="sikuli-automation-framework" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last.edited.regexp" value="Sample Text" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../APPIUM/appium-automation-framework" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/driver/sikulixapi.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.29770115" />
@@ -37,29 +59,18 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\usuario\Desktop\CASCADA\TDP-SIKULI\sikuli-automation-framework\src\main\resources\driver" />
+      <recent name="C:\Users\admin\Desktop\SIKULI\sikuli-automation-framework\src\main\resources\sikuli_images\crmMasSimple\Login\Login" />
+      <recent name="C:\Users\admin\Desktop\SIKULI\sikuli-automation-framework\src\main\resources\sikuli_images\crmMasSimple\Login\CrearCliente" />
+      <recent name="C:\Users\admin\Desktop\SIKULI\sikuli-automation-framework\src\main\resources\sikuli_images\crmMasSimple\Login" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\admin\Desktop\SIKULI\sikuli-automation-framework\src\main\resources" />
       <recent name="C:\Users\admin\Desktop\SIKULI\sikuli-automation-framework\src\main\resources\excel" />
       <recent name="C:\Users\admin\Desktop\web-automation-framework\web-automation-framework\src\main\resources\excel" />
       <recent name="C:\Users\admin\Desktop\web-automation-framework\src\main\resources\excel" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\admin\Desktop\SIKULI\sikuli-automation-framework\src\main\resources\sikuli_images\crmMasSimple\Login\Login" />
-      <recent name="C:\Users\admin\Desktop\SIKULI\sikuli-automation-framework\src\main\resources\sikuli_images\crmMasSimple\Login\CrearCliente" />
-      <recent name="C:\Users\admin\Desktop\SIKULI\sikuli-automation-framework\src\main\resources\sikuli_images\crmMasSimple\Login" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="TestNG.RunTest">
     <configuration name="Feature: CRM_Login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
@@ -169,5 +180,31 @@
       <updated>1576531102772</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="755" y="258" key="FileChooserDialogImpl" timestamp="1595874320212">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state x="755" y="258" key="FileChooserDialogImpl/0.0.1920.1034@0.0.1920.1034" timestamp="1595874320212" />
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom" timestamp="1595875206776">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1034@0.0.1920.1034" timestamp="1595875206776" />
+    <state width="1877" height="280" key="GridCell.Tab.0.center" timestamp="1595875206776">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1920.1034@0.0.1920.1034" timestamp="1595875206776" />
+    <state width="1877" height="280" key="GridCell.Tab.0.left" timestamp="1595875206776">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1920.1034@0.0.1920.1034" timestamp="1595875206776" />
+    <state width="1877" height="280" key="GridCell.Tab.0.right" timestamp="1595875206776">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1920.1034@0.0.1920.1034" timestamp="1595875206776" />
+    <state x="440" y="91" width="1219" height="852" key="SettingsEditor" timestamp="1595874327427">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state x="440" y="91" width="1219" height="852" key="SettingsEditor/0.0.1920.1034@0.0.1920.1034" timestamp="1595874327427" />
   </component>
 </project>
